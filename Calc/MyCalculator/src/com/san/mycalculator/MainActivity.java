@@ -39,6 +39,7 @@ public class MainActivity extends Activity implements OnClickListener {
 		etNum1 = (EditText) findViewById(R.id.etNum1);
 		etNum2 = (EditText) findViewById(R.id.etNum2);
 		//ghfj
+		//sdanas
 		btnAdd = (Button) findViewById(R.id.btnAdd);
 		btnSub = (Button) findViewById(R.id.btnSub);
 		btnMult = (Button) findViewById(R.id.btnMult);
